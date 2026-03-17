@@ -29,3 +29,21 @@ Its a camera where you can take photos without sound and getting caught. It coul
 | PCB (JLCPCB Prototype / Fabrication)                                      | 1        | ₹914            | ₹914            | $10.15          | PCB         | [Link](https://jlcpcb.com/)                                          |
 | **Robu Total**                                                            |          |                 | **₹1193**       | **$13.26**      |             |                                                                      |
 | **Grand Total**                                                           |          |                 | **₹2107**       | **$23.41**      |             |                                                                      |
+
+# Cart
+
+[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/BOM%2BCart/robu1.png)
+[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/BOM%2BCart/robu2.png)
+[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/BOM%2BCart/jlcphoto1.png)
+[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/BOM%2BCart/jlcphoto2.png)
+
+# Libraries used
+- WiFi
+- WiFiClientSecure
+- UniversalTelegramBot
+- lvgl
+- TFT_eSPI
+- TJpg_Decoder
+- esp_camera
+- FS
+- SD_MMC
