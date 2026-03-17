@@ -88,4 +88,4 @@ void loop(){
   if(fb){ TJpgDec.drawJpg(0,0,fb->buf,fb->len); esp_camera_fb_return(fb); }
   lv_timer_handler();
   delay(30);
-}s
+}
