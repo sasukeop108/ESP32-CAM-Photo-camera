@@ -1,0 +1,11 @@
+Item,Quantity,Unit Price (INR),Line Total (INR),Line Total (USD),Link
+LiPo Battery (2000 mAh, 3.7 V),1,314,314,3.49,https://robu.in/product/nova-103450-2000mah-3-7v-lipo-battery-pack/
+5V 3A DC Boost Step-Up Module,1,129,129,1.43,https://robu.in/product/5v-3a-dc-boost-step-up-module/
+2.4″ SPI 240×320 TFT Display Module,1,741,741,8.23,https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-colour-display-module/
+TP4056 1A Li‑Ion Battery Charging Module,2,9,18,0.20,https://robu.in/product/tp4056-1a-li-ion-battery-charging-board-micro-usb-with-current-protection-type-c-connector/
+*Note: Robu.in minimum order price for TP4056 above ₹10*,,,,,,
+PCB (JLCPCB Prototype / Fabrication),1,914,914,10.15,https://jlcpcb.com/
+Shipping Charges (Robu.in),-,0,0,0.00,
+ESP32-CAM (Self-Sourced),1,-,-,-,Self-Sourced
+Power Switch (Self-Sourced),1,-,-,-,Self-Sourced
+Grand Total ,,,"2116","23.50",
