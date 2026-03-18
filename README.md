@@ -8,11 +8,10 @@ Its a camera where you can take photos without sound and getting caught. It coul
 ![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/camerafront.png)
 ![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/cameraback.png)
 # PCB
-[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/camera-pcb.png)
-]
-# Schematic
+![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/camera-pcb.png)
 
-[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/Schematic.png)
+# Schematic
+![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/Schematic.png)
 
 # BOM
 
