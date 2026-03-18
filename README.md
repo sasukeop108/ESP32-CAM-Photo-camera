@@ -12,7 +12,7 @@ Its a camera where you can take photos without sound and getting caught. It coul
 ]
 # Schematic
 
-[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/SCH_Schematic1_1-P1_2026-03-17.png)
+[![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/Schematic.png)
 
 # BOM
 
