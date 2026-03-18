@@ -5,8 +5,8 @@ One day, I was thinking about taking some pictures with my friends in school. Bu
 Its a camera where you can take photos without sound and getting caught. It could even send the photo to your telegram account and it is powered by a battery. A photo can be taken by touching a button in the touch screen. It may sound like a joke but its not.
 
 # PCB 3D
-![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/3D_PCB1_2026-03-17.png)
-![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/3D_PCB1_2026-03-17%20(3).png)
+![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/camerafront.png)
+![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/cameraback.png)
 # PCB
 [![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/camera-pcb.png)
 ]
