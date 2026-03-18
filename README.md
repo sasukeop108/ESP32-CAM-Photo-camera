@@ -6,7 +6,7 @@ Its a camera where you can take photos without sound and getting caught. It coul
 
 # PCB 3D
 ![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/3D_PCB1_2026-03-17.png)
-
+![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/3D_PCB1_2026-03-17%20(3).png)
 # PCB
 [![](https://github.com/sasukeop108/ESP32-CAM-Photo-camera/blob/main/Assets/camera-pcb.png)
 ]
